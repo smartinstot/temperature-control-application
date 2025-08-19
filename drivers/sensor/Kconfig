@@ -1,0 +1,3 @@
+if SENSOR
+rsource "stm32_fan_taco/Kconfig"
+endif # SENSOR

@@ -1,0 +1,6 @@
+description: |
+  Emulated driver for a fan taco
+
+compatible: "zephyr,fan-taco"
+
+include: base.yaml

@@ -1,0 +1,5 @@
+menu "Custom libraries"
+
+rsource "adc_compensation/Kconfig"
+
+endmenu

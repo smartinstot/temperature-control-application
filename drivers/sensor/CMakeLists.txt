@@ -1,0 +1,1 @@
+add_subdirectory_ifdef(CONFIG_STM32_FAN_TACO stm32_fan_taco)

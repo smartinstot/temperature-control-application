@@ -1,0 +1,13 @@
+sample:
+  description: Temperature Control Application
+  name: temperature-control-application 
+common:
+  build_only: true
+  integration_platforms:
+    - native_sim
+    - blackpill_f411ce
+tests:
+  app.default: {}
+  app.debug:
+    extra_overlay_confs:
+      - debug.conf

@@ -1,0 +1,1 @@
+add_subdirectory_ifdef(CONFIG_ADC_COMP adc_compensation)

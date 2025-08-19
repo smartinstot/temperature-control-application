@@ -1,0 +1,5 @@
+config ADC_COMP
+	bool "Support for adc compensation library"
+	help
+	  This option enables the 'ADC_COMP' library
+
